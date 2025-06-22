@@ -37,9 +37,15 @@ I'm passionate about building secure infrastructure, automating deployments, and
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mirela%20Schoonbeck-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mirela-schoonbeck/)  
-[![Email](https://img.shields.io/badge/Email-mirela@gmail.com-red?style=flat&logo=gmail)](mailto:msschoonbeck@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-schoonbm-black?style=flat&logo=github)](https://github.com/schoonbm)
+<p align="left">
+  <a href="https://www.linkedin.com/in/mirela-schoonbeck/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Mirela%20Schoonbeck-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <br/>
+  <a href="https://github.com/schoonbm" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-schoonbm-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</p>
 
 ---
 
